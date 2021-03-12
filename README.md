@@ -31,3 +31,11 @@ What can you do with this sensor??
 Predictive Weather Station:
 Using the data from this device you can create a weather monitoring and prediction application.  With temperature and humidity you can calculate dew point.  Using the pressure readings you can monitor trends in pressure changes; dropping pressures usually indicate a storm is likely in the near future. Rising pressure indicates clear weather ahead.  Doing a bit of research you can piece together humidity, temperature, and pressure trends to predict weather for the next 24 hours fairly accurately.  Studying the data for your specific area and looking for some local trend patterns in the data can even help you create a highly accurate model for your location.
 
+
+Example 1:
+Reads BME Sensors and reports over serial port.
+Temp, Humidity, Pressure and Alt based on local sea level pressure.
+A button is included to allow Zeroing out of ALtitude to measure height above a surface mlore accurately.
+Cal should be run every so often to offset for any sea level pressure changes.
+
+Eaxample 2:
