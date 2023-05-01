@@ -12,7 +12,7 @@ Join our FB group at https://www.facebook.com/groups/3188341227932417/
 BME280
 
 The BME280 environmental sensor is an amazing device.
-It accurately measure Temperature, Humidity, and Atmospheric pressure and sends that data to a microcontroller  via the I2C or SPI bus.
+It accurately measures Temperature, Humidity, and Atmospheric pressure and sends that data to a microcontroller  via the I2C or SPI bus.
 The current consumption is a tiny 3.6uA when reporting every second with all three sensor parameters turned on.  Sleep mode is miniscule, at  .1uA, making this an ideal choice for battery operated or small solar powered IoT devices.
 Reading accuracy is decent.
 Relative Humidity: +/- 3%
